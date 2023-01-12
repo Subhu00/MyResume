@@ -1,11 +1,4 @@
-:root{
-    --primary:#3Dcfd3;
-    --dark:#161616;
-    --pure:#ffffff;
-    --ternary:#898989;
-    --light:#f2f2f2;
 
-}
 *{
     margin: 0;
     padding: 0;
@@ -43,7 +36,7 @@ nav ul li a{
     font-weight: bold;
 }
 nav ul li a:hover{
-    color: aquamarine;
+    color: rgb(12, 209, 71);
 }
 .detail{
     margin-left: 8%;
